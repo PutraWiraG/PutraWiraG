@@ -1,29 +1,22 @@
 <div align="center">
   <h1>Halo, Saya Putra! 🚀</h1>
-  <p><strong>Informatics Student @ UPN Veteran East Java | Tech Enthusiast</strong></p>
+  <p><strong>Junior Web Programmer | Informatics Graduate from UPN Veteran East Java</strong></p>
 </div>
 
 ---
 
 ### 💫 Tentang Saya
-- 🎓 **Pendidikan:** Mahasiswa Informatika di UPN Veteran Jawa Timur.
-- 💻 **Fokus Saat Ini:** Sedang mendalami dunia **Machine Learning** dan **Web Front-End Development**.
-- ❓ **Tanya Saya Tentang:** Konsep machine learning, arsitektur model, atau slicing UI komponen front-end.
+- 🎓 **Pendidikan:** Lulusan S1 Informatika dari UPN Veteran Jawa Timur.
+- 💻 **Fokus Saat Ini:** Full-Stack Web Development dan Machine Learning.
+- ❓ **Tanya Saya Tentang:** Pembuatan REST API, arsitektur modern web (SPA/SSR), integrasi front-end, hingga konsep dasar machine learning.
 
 <br/>
 
 ### 🛠️ Skill Set
 
-| 🧠 Machine Learning & Data | 🎨 Frontend & Design |
-| :---: | :---: |
-| <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a> <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="45" /></a> <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="45" /></a> | <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a> <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a> <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a> <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="45" /></a> <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="45" /></a> |
-
-<br/>
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PutraWiraG&show_icons=true&count_private=true&theme=visual&hide_border=false&include_all_commits=true" alt="Putra's GitHub Stats" />
-</div>
+| 🧠 Machine Learning & Data | 🎨 Frontend & Design | ⚙️ Backend |
+| :---: | :---: | :---: |
+| <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" /></a> <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="45" /></a> <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="45" /></a> | <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original.svg" alt="ReactJS" height="45" /></a> <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.svg" alt="Next.js" height="45" /></a> <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a> <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a> <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a> <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="45" /></a> <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="45" /></a> | <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-featured.png" alt="Laravel" height="45" /></a> <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/expressjs-icon.svg" alt="Express.js" height="45" /></a> <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Golang" height="45" /></a> |
 
 <br/>
 
